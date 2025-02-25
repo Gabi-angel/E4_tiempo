@@ -1,3 +1,6 @@
+//Gabriela Angel Tunjano 
+//E4:tiempo
+//202410096
 int w = 600; // Ancho de la ventana
 int h = 600; // Alto de la ventana
 
